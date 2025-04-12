@@ -30,7 +30,7 @@ This project introduces a **Python-based Legal Assistant** built on a structured
 
 1. **Launch Jupyter Notebook**.
 2. **Load the Dataset**:
-   Ensure `Law Sheet - Sheet1.csv` is in the same directory as your notebook.
+   Ensure `BNS-Dataset.csv` is in the same directory as your notebook.
 3. **Run the Provided Python Code**:
    The notebook will define a search tool.
 4. **Call the Function**:
