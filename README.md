@@ -1,4 +1,4 @@
-# Bharatiya-Naya-Sahita-IPC-Assistant.ipynb
+
 #  BNS Legal Assistant – Interactive Tool for Young Legal Professionals ⚖
 
 ##  Problem Statement
